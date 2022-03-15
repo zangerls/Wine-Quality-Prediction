@@ -9,14 +9,14 @@ The data used for the analysis comes from [Kaggle.](https://www.kaggle.com/yasse
 ## Machine Learning
 
 #### Overview
-1. [First look at the data]
-2. [Cleaning the data]
-3. [Scaling the data]
-4. [Feature Selection]
-5. [Preparing the data]
-6. [Training the models]
-7. [Evaluating the models]
-8. [Comparing the models]
+1. [First look at the data](#1---first-look-at-the-data)
+2. [Cleaning the data](#2---cleaning-the-data)
+3. [Scaling the data](#3---scaling-the-data)
+4. [Feature Selection](#4---feature-selection)
+5. [Preparing the data](#5---preparing-the-data)
+6. [Training the models](#6---training-the-models)
+7. [Evaluating the models](#7---evaluating-the-models)
+8. [Comparing the models](#8---comparing-the-models)
 
 ### 1. - First look at the data
 
